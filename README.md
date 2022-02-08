@@ -1,2 +1,2 @@
-# coursera-test
-coursera test repository
+# coursera-HTML, CSS, and Javascript for Web Developers
+
